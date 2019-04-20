@@ -1,3 +1,4 @@
+/*
 include: "snowflake.*.view.lkml"
 
 datagroup: default {
@@ -10,3 +11,4 @@ explore: forex {
   persist_with: default
   label: "Exchange Rates"
 }
+*/

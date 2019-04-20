@@ -1,3 +1,4 @@
+/*
 view: sf_forex {
   sql_table_name: exchangerate.forex ;;
 
@@ -86,3 +87,4 @@ view: sf_forex {
     drill_fields: []
   }
 }
+*/

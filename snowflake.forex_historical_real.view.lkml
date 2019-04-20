@@ -1,3 +1,4 @@
+/*
 view: sf_forex_historical_real {
   derived_table: {
     sql: SELECT
@@ -243,3 +244,4 @@ view: sf_forex_historical_real {
   }
 
 }
+*/
