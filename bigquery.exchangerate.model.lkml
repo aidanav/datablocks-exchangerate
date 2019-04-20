@@ -1,3 +1,3 @@
-connection: "bq-looker-datablocks"
+connection: "fivetran-bigquery"
 
 include: "bigquery.explore"
