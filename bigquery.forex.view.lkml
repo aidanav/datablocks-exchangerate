@@ -122,6 +122,14 @@ view: bq_forex {
     group_label: "Common Pairs"
   }
 
+ dimension: GBP_CAD {
+   label: "GBP/USD"
+   description: "1 Great British Pound = X CAD dollars"
+   type: number
+   sql: ${TABLE}.GBP_CAD ;;
+   group_label: "Common Pairs"
+ }
+
   measure: max {
     type: max
     sql: ${USD_CHF} ;;
